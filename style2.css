@@ -1,0 +1,28 @@
+
+/*.pagination{
+  display:inline-block; 
+  font-size:50px; 
+  margin-top:100px;
+  padding: 10px;
+ align-content: center !important;
+  }*/
+.pagination a{
+  display:inline-block; 
+  font-size:20px; 
+  margin-top:90px;
+  padding: 10px;
+  align-content: center !important;
+  background: #e6af4b none repeat scroll 00;
+  border:1px solid #a7700c;
+  border-radius: 3px;
+  color: #333;
+  margin-left: 2px;
+  padding: 2px 10px;
+  text-decoration: none;
+
+  
+}
+
+.pagination a:hover{
+	background: #be8723 none repeat scroll 00; color:#fff;
+}
